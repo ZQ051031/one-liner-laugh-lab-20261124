@@ -4,6 +4,10 @@ Entry for the make.fun competition
 `u-suroso-69-one-liner-laugh-lab-6ccf3aae` ($2.50, deadline
 2026-11-27 00:15 CST).
 
+[![make.fun](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-liner-laugh-lab-6ccf3aae)
+[![Rank](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae/ZQ051031/one-liner-laugh-lab-20261124/rank.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-liner-laugh-lab-6ccf3aae)
+[![Reward](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae/ZQ051031/one-liner-laugh-lab-20261124/reward.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-liner-laugh-lab-6ccf3aae)
+
 ## The entry
 
 The program writes one line to `/output/entry.txt` — the excuse a robot
